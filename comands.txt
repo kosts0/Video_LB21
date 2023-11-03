@@ -1,0 +1,1 @@
+python main.py "D:\SPBPU\video\LB21\input.mp4" "D:\SPBPU\video\LB21\output.mp4" "D:\SPBPU\video\LB21\input_audio.mp3"
